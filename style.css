@@ -136,7 +136,8 @@ h1 {
   .left {
     margin-bottom: 0rem;
     position: absolute;
-    bottom: 37%;
+    bottom: 30%;
+
   }
 
   .guess {
@@ -160,21 +161,21 @@ h1 {
     font-size: 1.5rem;
     margin-bottom: 0;
     position: absolute;
-    bottom: 26%;
+    bottom: 23%;
   }
 
   .label-score {
     margin-bottom: 0px;
     font-size: 1.5rem;
     position: absolute;
-    bottom: 20%;
+    bottom: 17%;
     left: 26%;
   }
 
   .label-highscore {
     font-size: 1.5rem;
     position: absolute;
-    bottom: 16%;
+    bottom: 12%;
     left: 26%;
   }
 }
